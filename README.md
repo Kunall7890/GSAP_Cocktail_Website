@@ -7,8 +7,21 @@ An interactive, animation-rich cocktail website built with React, GSAP and Tailw
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
+ # GSAP Cocktail Website
+
+ <p align="center">
+	<img src="public/readme/hero.png" alt="Project Banner" style="max-width:100%;height:auto;" />
+</p>
+
+An interactive, animation-rich cocktail website built with React, GSAP and Tailwind CSS. The project demonstrates advanced scroll-driven animations including pinned sections, scroll-triggered timelines, parallax effects, and scroll-synced video playback.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
 4. [Quick Start](#quick-start)
-5. [Assets](#assets)
+5. [Assets & Screenshots](#assets--screenshots)
 6. [Contributing](#contributing)
 
 ## Introduction
@@ -55,9 +68,23 @@ npm run dev
 
 Open http://localhost:5173 in your browser.
 
-## Assets
+## Assets & Screenshots
 
-Some assets used by the project (videos, images, masks) are stored in the `public` folder. Additional kits or source packs (if any) are linked inside the project where appropriate.
+Some assets used by the project are stored in the `public/readme` folder. Below are a few visuals from the project:
+
+<p align="center">
+	<img src="public/readme/thumbnail.png" alt="Thumbnail" style="max-width:600px;width:100%;height:auto;margin:8px 0;" />
+</p>
+
+<p align="center">
+	<img src="public/readme/videokit.png" alt="Video Kit" style="max-width:600px;width:100%;height:auto;margin:8px 0;" />
+</p>
+
+<p align="center">
+	<img src="public/readme/jsmpro.png" alt="Related Resource" style="max-width:600px;width:100%;height:auto;margin:8px 0;" />
+</p>
+
+If you'd like different screenshots (specific sections, GIF demos, or smaller thumbnails), tell me which components or pages to capture and I can add them.
 
 ## Contributing
 
@@ -74,4 +101,3 @@ This project does not include a license file. Add an appropriate `LICENSE` if yo
 
 ---
 
-If you want any additional sections (screenshots, demo link, code examples, or a shorter README for the GitHub homepage), tell me which items you'd like and I can update the file again.
